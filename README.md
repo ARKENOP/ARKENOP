@@ -2,11 +2,11 @@
 <h3 align="center">Étudiant à l'EPSI Nantes en 2ème année</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkenop&show_icons=true&locale=en&layout=compact&theme=dark" alt="arkenop"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkenop&show_icons=true&layout=compact&theme=dark" alt="arkenop"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arkenop&show_icons=true&locale=en&theme=dark" alt="arkenop"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arkenop&show_icons=true&theme=dark" alt="arkenop"/>
 </p>
 
 <h3 align="center">Venez voir mes réseaux :</h3>
