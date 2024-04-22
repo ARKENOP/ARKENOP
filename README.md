@@ -2,7 +2,7 @@
 <h3 align="center">Étudiant à l'EPSI Nantes en 2ème année</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkenop&show_icons=true&layout=compact&theme=dark" alt="arkenop"/>
+  
 </p>
 
 <p align="center">
